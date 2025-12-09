@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-12-09 at 16 24 40_1322b1a5](https://github.com/user-attachments/assets/af691df8-d783-45ab-8eb4-5f4c94efdeb9)# Ex03 Time Table
+# Ex03 Time Table
 ## Date:09.12.2025
 
 ## AIM
