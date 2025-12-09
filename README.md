@@ -1,4 +1,4 @@
-# Ex03 Time Table
+![WhatsApp Image 2025-12-09 at 16 24 40_1322b1a5](https://github.com/user-attachments/assets/af691df8-d783-45ab-8eb4-5f4c94efdeb9)# Ex03 Time Table
 ## Date:09.12.2025
 
 ## AIM
@@ -119,7 +119,9 @@ I<caption><b>SLOT TIME TABLE NEELI DARSHINI (25004961)</b></caption>
 ```
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1110" height="812" alt="Screenshot 2025-12-09 172245" src="https://github.com/user-attachments/assets/ca7470ef-ab0b-4953-87e6-460bf0212e47" />
+
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
